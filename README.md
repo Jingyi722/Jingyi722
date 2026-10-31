@@ -4,7 +4,7 @@
 
 正在找 **2026 年 12 月至 2027 年 2 月** 的寒假实习（数据分析 / 数据开发 / AI 应用），可全职到岗约 3 个月。
 
-**作品集：** https://YOUR-GITHUB-USERNAME.github.io
+**作品集：** https://Jingyi722.github.io
 
 ### 做过的项目
 
